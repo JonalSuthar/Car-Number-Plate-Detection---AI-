@@ -1,5 +1,5 @@
 # Car-Number-Plate-Detection---AI-
-This project helps to detect the number plate of a car as well as the words written on the car.
+This project helps to detect the number plate of a car as well as the words written on the number plate.
 
 It uses following steps :
 
