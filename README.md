@@ -9,7 +9,7 @@ It uses following steps :
 
 2.Apply filters and find edges for localisation.
 
-![Screenshot 2023-04-19 004917](https://user-images.githubusercontent.com/73659977/232882943-7a4af4f3-bacb-4856-86d6-117e93e343b7.pn
+![Screenshot 2023-04-19 004917](https://user-images.githubusercontent.com/73659977/232882943-7a4af4f3-bacb-4856-86d6-117e93e343b7.png)
 
 3.Find Contours and Apply Mask.
 
